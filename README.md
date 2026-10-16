@@ -2,7 +2,7 @@
 
 ``SAMUEL WIGGERS MARTINS & BERNARDO SANTOS``
 
-# PARA RODAR O TRABALHO
+# Para rodar o projeto
 
 - Necessários para conseguir rodar
 
